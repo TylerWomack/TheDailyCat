@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name ="purpleAccent">#E040FB</color>
+    <color name="F">#283593</color>
+
+    <item name="darkBlue" type="color">#303F9F</item>
+    <item name="purple" type="color">#E040FB</item>
+    <item name="lightblue" type="color">#03A9F4</item>
+    <item name="pink" type="color">#FFCDD2</item>
+    <item name="red" type="color">#F44336</item>
+    <item name="pinkPurple" type="color">#F44336</item>
+    <item name="peach" type="color">#FFE0B2</item>
+    <item name="orange" type="color">#FF9800</item>
+    <item name="green" type="color">#8BC34A</item>
+
+    <integer-array name="buttonColors">
+        <item>@color/lightblue</item>
+        <item>@color/pink</item>
+        <item>@color/red</item>
+        <item>@color/pinkPurple</item>
+        <item>@color/peach</item>
+        <item>@color/orange</item>
+        <item>@color/green</item>
+        <item>@color/darkBlue</item>
+        <item>@color/purple</item>
+    </integer-array>
+
+
+
+
+
+
+</resources>
